@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Friend or Foe", "Friend or 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String repeat", "String repeat\String repeat.csproj", "{71A1DD26-3B3D-4780-B596-2E319DE22126}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moving Zeros To The End", "Moving Zeros To The End\Moving Zeros To The End.csproj", "{29257470-948F-433F-B077-7E6486CD28C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{71A1DD26-3B3D-4780-B596-2E319DE22126}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71A1DD26-3B3D-4780-B596-2E319DE22126}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71A1DD26-3B3D-4780-B596-2E319DE22126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29257470-948F-433F-B077-7E6486CD28C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29257470-948F-433F-B077-7E6486CD28C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29257470-948F-433F-B077-7E6486CD28C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29257470-948F-433F-B077-7E6486CD28C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
